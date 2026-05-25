@@ -49,3 +49,4 @@ wp-config.php
 
 /wp-content/litespeed/
 /wp-content/ai1wm-backups/
+.litespeed*
