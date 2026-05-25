@@ -47,5 +47,5 @@ wp-config.php
 # uncomment the next line
 #/wp-content/themes
 
-/wp-content/litespeed/*
-/wp-content/a1iwm-backups/*
+/wp-content/litespeed/
+/wp-content/a1iwm-backups/
